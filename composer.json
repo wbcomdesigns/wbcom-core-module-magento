@@ -2,7 +2,7 @@
   "name": "wbcomdesigns/wbcom-core-module-magento",
   "description": "core module to manage all other modules related to wbcom",
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "GPL-3.0-or-later",
   "authors": [
     {
