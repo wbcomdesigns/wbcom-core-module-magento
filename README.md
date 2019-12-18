@@ -1,4 +1,3 @@
-
 <h2>Wbcom Core</h2>
       <p>This module is used to provide a base for all other modules related Wbcom Designs.</p>
 <ul>

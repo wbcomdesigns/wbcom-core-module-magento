@@ -10,7 +10,7 @@
             <resource>Wbcom_Core::wbcom_cofig</resource>
             <group id="general" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10">
                 <label>Core General Settings</label>
-                <field id="enable" translate="label comment" type="select" sortOrder="0" showInDefault="1" showInWebsite="1" showInStore="1">
+                <field id="enable" translate="label comment" type="select" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Enable Module</label>
                     <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
                 </field>
