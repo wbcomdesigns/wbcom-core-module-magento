@@ -1,5 +1,5 @@
 {
-  "name": "wbcomdesigns/wbcom-core-module-magento",
+  "name": "wbcomdesigns/module-core",
   "description": "core module to manage all other modules related to wbcom",
   "type": "magento2-module",
   "version": "1.0.1",
